@@ -1,7 +1,7 @@
 0x15. C - Simple Shell
 Year 1 - Low-level programming & Algorithm ― Linux and Unix system programming
 
-Team:  Jeffrey ojonugwa Egbunu, Brendan Eliason
+Team:  Jeffrey ojonugwa Egbunu, Mary Awe
 
 Compilation
 Our shell is compiled this way:
