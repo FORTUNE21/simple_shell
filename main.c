@@ -1,9 +1,3 @@
-/*
- * File: main.c
- * Auth: Abdulqodir Oladimeji
- *       Kenneth Onuma
- */
-
 #include "shell.h"
 
 void sig_handler(int sig);
